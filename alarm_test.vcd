@@ -1,0 +1,185 @@
+$date
+	Mon Jul 25 22:47:47 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module alarm_test $end
+$var wire 8 ! hr [7:0] $end
+$var wire 8 " min [7:0] $end
+$var wire 8 # sec [7:0] $end
+$var reg 1 $ clk $end
+$var reg 1 % clr $end
+$scope module uut $end
+$var wire 1 & clk $end
+$var wire 1 ' clr $end
+$var reg 1 ( alarm $end
+$var reg 8 ) hr [7:0] $end
+$var reg 8 * hr_alm [7:0] $end
+$var reg 8 + min [7:0] $end
+$var reg 8 , min_alm [7:0] $end
+$var reg 8 - sec [7:0] $end
+$var reg 8 . sec_alm [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b111 .
+b0 -
+b0 ,
+b0 +
+b0 *
+b0 )
+0(
+1'
+0&
+1%
+0$
+b0 #
+b0 "
+b0 !
+$end
+#10
+b1 -
+b1 #
+1$
+1&
+#20
+0$
+0&
+#30
+b1 -
+b1 #
+1$
+1&
+#40
+0$
+0&
+0%
+0'
+#50
+b10 -
+b10 #
+1$
+1&
+#60
+0$
+0&
+#70
+b11 -
+b11 #
+1$
+1&
+#80
+0$
+0&
+#90
+b100 -
+b100 #
+1$
+1&
+#100
+0$
+0&
+#110
+b101 -
+b101 #
+1$
+1&
+#120
+0$
+0&
+#130
+b110 -
+b110 #
+1$
+1&
+#140
+0$
+0&
+#150
+1(
+b111 -
+b111 #
+1$
+1&
+#160
+0$
+0&
+#170
+b1000 -
+b1000 #
+1$
+1&
+#180
+0$
+0&
+#190
+0(
+b1001 -
+b1001 #
+1$
+1&
+#200
+0$
+0&
+#210
+b1010 -
+b1010 #
+1$
+1&
+#220
+0$
+0&
+#230
+b1011 -
+b1011 #
+1$
+1&
+#240
+0$
+0&
+#250
+b1100 -
+b1100 #
+1$
+1&
+#260
+0$
+0&
+#270
+b1101 -
+b1101 #
+1$
+1&
+#280
+0$
+0&
+#290
+b1110 -
+b1110 #
+1$
+1&
+#300
+0$
+0&
+#310
+b1111 -
+b1111 #
+1$
+1&
+#320
+0$
+0&
+#330
+b10000 -
+b10000 #
+1$
+1&
+#340
+0$
+0&
